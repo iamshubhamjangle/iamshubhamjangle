@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamshubhamjangle
-- 👀 I’m interested in Flutter, java, python, android development
-- 🌱 I’m currently learning c++ dsa and MERN + AWS
+- 👀 I am currently working as Software Engineer.
+- 🌱 I am passionate about Full Stack Web Development & Problem Solving.
 - 📫 How to reach me jangleshubham@ymail.com
 
 <!---
