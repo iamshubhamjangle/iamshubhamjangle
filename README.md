@@ -6,7 +6,6 @@
 Projects you will find in my repo:
   - Web: Reactjs, Angular, Nodejs + Express
   - Mobile: Flutter(dart), Android (java)
-  - Database: mySQL, mongoDB
 
 <!---
 iamshubhamjangle/iamshubhamjangle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
