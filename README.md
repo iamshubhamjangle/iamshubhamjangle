@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamshubhamjangle
 - 👀 I am currently working as Software Engineer.
 - 🌱 I am passionate about Full Stack Web Development & Problem Solving.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/imshubhamjangle/), [Instagram](https://www.instagram.com/imshubhamjangle/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/imshubhamjangle/)
 
 Projects you will find in my repo:
   - Web: Reactjs, Angular, Nodejs + Express
