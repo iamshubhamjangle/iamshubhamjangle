@@ -14,7 +14,7 @@ Projects you will find in my repo:
     - [Next Authentication with Prisma & MongoDB ](https://nextauth-iamshubhamjangle.vercel.app/) - Auth with Next.js 13
     - [Personal Portfolio ](https://iamshubhamjangle.github.io/portfolio/) - Check out how good I am :-)
     - [Memories ](https://memories-1n53.onrender.com/) - Create your memories & share it with the world!
-    - [Cloud Notes ](https://markdown-cloud-notes.onrender.com/)
+    - [Cloud Notes ](https://markdown-cloud-notes.onrender.com/) - Easy & quick way to create notes with Markdown!
 - Practice Projects
     - [React Zustand Chakra App - UI Practise](https://zustand-chakra-ekart-demo.vercel.app/)
     - [ChatApp - Vanilla JS - UI Practise ](https://iamshubhamjangle.github.io/web-chat-vanilla-js/)
