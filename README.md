@@ -10,6 +10,7 @@ Projects you will find in my repo:
 
 ## Projects:
 - Live Projects
+    - [Ripple](http://ripple.iamshubhamjangle.vercel.app/) - Share your thoughts with the world!
     - [Whatsapp Direct Message](https://iamshubhamjangle.github.io/whatsapp-direct-message/)  - Directly message anyone without having them in your contact list.
     - [Next Authentication with Prisma & MongoDB ](https://nextauth-iamshubhamjangle.vercel.app/) - Auth with Next.js 13
     - [Personal Portfolio ](https://iamshubhamjangle.github.io/portfolio/) - Check out how good I am :-)
