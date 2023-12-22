@@ -15,7 +15,8 @@ TechStack I work with:
 ## Projects:
 - Live Projects
     - [Personal Portfolio ](https://shubhamjangle.vercel.app/) - Check out how good I am :-)
-    - [Ripple](http://ripple.iamshubhamjangle.vercel.app/) - Share your thoughts with the world!
+    - [Electro Store](https://electro.iamshubhamjangle.vercel.app/) - Your all time electronics store with admin panel.
+    - [Ripple Tweet](http://ripple.iamshubhamjangle.vercel.app/) - Share your thoughts with the world!
     - [Whatsapp Direct Message](https://iamshubhamjangle.github.io/whatsapp-direct-message/)  - Directly message anyone without having them in your contact list.
     - [Memories ](https://memories-1n53.onrender.com/) - Create your memories & share it with the world!
     - [Cloud Notes ](https://markdown-cloud-notes.onrender.com/) - Easy & quick way to create notes with Markdown!
