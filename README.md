@@ -4,17 +4,17 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/imshubhamjangle/)
 
 TechStack I work with:
-  - Web: HTML, CSS, JavaScript, ReactJS, NextJS, NodeJS, Angular, Java (Springboot, Hibernate)
+  - Web: HTML, CSS, JavaScript, ReactJS, NextJS, NodeJS, Java (Springboot, Hibernate)
   - Mobile: Flutter (Dart), Android (Java)
-  - Database: sqlite, MySQL, PostgreSQL, MongoDB
+  - Database: PostgreSQL, MongoDB, MySQL, CosmosDB, DB2
   - Containerization - Docker, Kubernetes, Kubectl, Helm charts.
   - Monitoring & Alerting - Prometheus, Graphana
-  - Cloud: AWS, Azure
-  - Problems Solving: C++, Javascript
+  - Cloud: AWS, Azure, Vercel
+  - Problems Solving: Javascript, C++ 
 
 ## Projects:
 - Live Projects
-    - [Personal Portfolio ](https://shubhamjangle.vercel.app/) - Check out how good I am :-)
+    - [Personal Portfolio ](https://www.shubhamjangle.com/) - :)
     - [Electro Store](https://electro.iamshubhamjangle.vercel.app/) - Your all time electronics store with admin panel.
     - [Ripple Tweet](http://ripple.iamshubhamjangle.vercel.app/) - Share your thoughts with the world!
     - [Whatsapp Direct Message](https://iamshubhamjangle.github.io/whatsapp-direct-message/)  - Directly message anyone without having them in your contact list.
