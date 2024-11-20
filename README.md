@@ -15,6 +15,7 @@ TechStack I work with:
 ## Projects:
 - Live Projects
     - [Personal Portfolio ](https://www.shubhamjangle.com/) - :)
+    - [Doc Search](https://doc-search-phi.vercel.app/) - Search through your document using AI.
     - [Electro Store](https://electro.iamshubhamjangle.vercel.app/) - Your all time electronics store with admin panel.
     - [Ripple Tweet](http://ripple.iamshubhamjangle.vercel.app/) - Share your thoughts with the world!
     - [Whatsapp Direct Message](https://iamshubhamjangle.github.io/whatsapp-direct-message/)  - Directly message anyone without having them in your contact list.
