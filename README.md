@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamshubhamjangle
-- 👀 I am currently working as Software Engineer.
+- 👀 I am currently working as Senior Software Development Engineer.
 - 🌱 I am passionate about Full Stack Web Development & Problem Solving.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/imshubhamjangle/)
 
@@ -16,11 +16,13 @@ TechStack I work with:
 - Live Projects
     - [Personal Portfolio ](https://www.shubhamjangle.com/) - :)
     - [Doc Search](https://doc-search-phi.vercel.app/) - Search through your document using AI.
+    - [Gear Calculator](https://gear-calculator-blush.vercel.app/) - Build this for one of client, who usually works with CNC machine to perform spiral gear calculation.
     - [Electro Store](https://electro.iamshubhamjangle.vercel.app/) - Your all time electronics store with admin panel.
     - [Ripple Tweet](http://ripple.iamshubhamjangle.vercel.app/) - Share your thoughts with the world!
-    - [Whatsapp Direct Message](https://iamshubhamjangle.github.io/whatsapp-direct-message/)  - Directly message anyone without having them in your contact list.
+    - [iamold](https://iamold.vercel.app/) - If you're someone who never remembers ages (or just wants to confirm you are, in fact, old)
     - [Memories ](https://memories-1n53.onrender.com/) - Create your memories & share it with the world!
     - [Cloud Notes ](https://markdown-cloud-notes.onrender.com/) - Easy & quick way to create notes with Markdown!
+    - [Whatsapp Direct Message](https://iamshubhamjangle.github.io/whatsapp-direct-message/)  - Directly message anyone without having them in your contact list.
 - Practice Projects
     - [React Zustand Chakra App - UI Practise](https://zustand-chakra-ekart-demo.vercel.app/)
     - [ChatApp - Vanilla JS - UI Practise ](https://iamshubhamjangle.github.io/web-chat-vanilla-js/)
